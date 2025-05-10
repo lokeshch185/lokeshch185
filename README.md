@@ -17,28 +17,29 @@
   </a>
 </p>
 
-## 💫 About Me
+<h2 align="center">💫 About Me</h2>
+<div align="center">
+  <table align="center" style="margin: 0 auto;">
+    <tr>
+      <td align="center">
+        🎓 Computer Engineering Junior<br>
+        🚀 Founder of Saarthi<br>
+        💡 Enthusiast in AI, Web, Cloud<br>
+        🧑‍🏫 Mentor | Barclays Hackathon Winner<br>
+        🔭 I'm currently working on building platforms and freelance projects<br>
+        👯 I'm looking to collaborate on social and industry-related projects<br>
+        🌱 I'm currently learning Cloud Technologies and AI Agents<br>
+        💬 Ask me about my projects and experiences<br>
+        ⚡ Fun fact - I enjoy vibe coding!!
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td>
-      🎓 Computer Engineering Junior<br>
-      🚀 Founder of Saarthi<br>
-      💡 Enthusiast in AI, Web, Cloud<br>
-      🧑‍🏫 Mentor | Barclays Hackathon Winner<br>
-      🔭 I'm currently working on building platforms and freelance projects<br>
-      👯 I'm looking to collaborate on social and industry-related projects<br>
-      🌱 I'm currently learning Cloud Technologies and AI Agents<br>
-      💬 Ask me about my projects and experiences<br>
-      ⚡ Fun fact - I enjoy vibe coding!!
-    </td>
-  </tr>
-</table>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
-
-### Languages & Scripting
-<p align="left">
+#### Languages & Scripting:
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -46,8 +47,8 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### Web & App Development
-<p align="left">
+#### Web & App Development:
+<p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
@@ -58,8 +59,8 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
-### Cloud & DevOps
-<p align="left">
+#### Cloud & DevOps:
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
@@ -69,8 +70,8 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-### Databases & Messaging
-<p align="left">
+#### Databases & Messaging:
+<p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB" />
@@ -79,16 +80,16 @@
   <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
-### ML & Data Science
-<p align="left">
+#### ML & Data Science:
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark" />
 </p>
 
-### Tools & Platforms
-<p align="left">
+#### Tools & Platforms:
+<p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -100,7 +101,7 @@
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lokeshch185&theme=github_dark&hide_border=true" alt="GitHub Streak" width="70%" />
@@ -108,16 +109,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshch185&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
 
-## 🤝 Connect with me
+<h2 align="center">🤝 Connect with me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/lokeshch18/" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg?raw=true" alt="LinkedIn" width="40" height="40" style="margin-right: 15px"/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg?raw=true" alt="LinkedIn" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://www.lokcode.xyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/lokeshch185/lokeshch185/main/assets/portfolio.png" alt="Portfolio" width="40" height="40" style="margin-right: 15px"/>
+    <img src="https://raw.githubusercontent.com/lokeshch185/lokeshch185/main/assets/portfolio.png" alt="Portfolio" width="50" height="50" style="margin-right: 20px"/>
   </a>
   <a href="https://instagram.com/_lokified" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg?raw=true" alt="Instagram" width="40" height="40"/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg?raw=true" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
